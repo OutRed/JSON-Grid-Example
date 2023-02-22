@@ -5,4 +5,4 @@
 - Includes plain CSS for image grid, edit it as you like
   
 ## Liscence
-Please give me a star if you use this, or just give me credit by saying "Made by OutRed"!I do not care what you do with this. It has no liscence. Sell it, make it your own for all I care.
+Please give me a star if you use this, or just give me credit by saying "Made by OutRed"! I do not care what you do with this. It has no liscence. Sell it, make it your own for all I care.
