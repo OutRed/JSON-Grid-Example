@@ -1,7 +1,7 @@
 body {
   text-align: center;
   color: black;
-  font-family: Roboto;
+  font-family: arial;
 }
 
 a {
@@ -20,11 +20,12 @@ a {
   flex-direction: column;
   align-items: center;
   border-radius: 50px;
-  padding: 10px;
+  padding: 12px;
   background-color: grey;
 }
 
 .game img {
   width: 200px;
   height: 200px;
+  border-radius: 50px;
 }
